@@ -3,3 +3,5 @@ librosa
 plotly
 pandas
 numpy
+tensorflow==2.15.0
+tensorflow-hub
